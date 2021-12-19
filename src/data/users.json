@@ -1,0 +1,17 @@
+[
+{
+"correo": "admin@hotmail.com",
+"contrasena": "0",
+"tipo": "a"
+},
+{
+"correo": "cliente@hotmail.com",
+"contrasena": "1",
+"tipo": "c"
+},
+{
+"correo": "empresa@hotmail.com",
+"contrasena": "2",
+"tipo": "e"
+}
+]
